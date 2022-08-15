@@ -102,24 +102,24 @@ if (isset($_SESSION['username']) && isset($_SESSION['user_type'])) {
   </tr>
   <tr>
     <td style="border:1px solid green; padding: 10px;">Tuesday</td>
-    <td style="border:1px solid green;padding: 10px;">Maithali</td>
-    <td style="border:1px solid green;padding: 10px;">Bojhpuri</td>
+    <td style="border:1px solid green;padding: 10px;">Newari</td>
+    <td style="border:1px solid green;padding: 10px;">English</td>
     <td style="border:1px solid green;padding: 10px;">Nepali  </td>
     <td style="border:1px solid green;padding: 10px;">Sanskrit </td>
   </tr>
   <tr>
     <td style="border:1px solid green; padding: 10px;">Wednesday</td>
-    <td style="border:1px solid green;padding: 10px;">Computer Graphics</td>
+    <td style="border:1px solid green;padding: 10px;">Computer</td>
     <td style="border:1px solid green;padding: 10px;">Statistics</td>
     <td style="border:1px solid green;padding: 10px;">Animation  </td>
-    <td style="border:1px solid green;padding: 10px;">Web design</td>
+    <td style="border:1px solid green;padding: 10px;">Design</td>
   </tr>
   <tr>
     <td style="border:1px solid green; padding: 10px;">Thursday</td>
     <td style="border:1px solid green;padding: 10px;">Math</td>
     <td style="border:1px solid green;padding: 10px;">English</td>
     <td style="border:1px solid green;padding: 10px;">Computer</td>
-      <td style="border:1px solid green;padding: 10px;">Digital Logic </td>
+      <td style="border:1px solid green;padding: 10px;">Digital </td>
   </tr>
 </table>
 </div>
@@ -157,9 +157,9 @@ if (isset($_SESSION['username']) && isset($_SESSION['user_type'])) {
   <tr>
     <td style="border:1px solid green; padding: 10px;">Tuesday</td>
     <td style="border:1px solid green;padding: 10px;">Math</td>
-    <td style="border:1px solid green;padding: 10px;"></td>
-    <td style="border:1px solid green;padding: 10px;">15000  </td>
-    <td style="border:1px solid green;padding: 10px;">1/1/2020  </td>
+    <td style="border:1px solid green;padding: 10px;">Nepali</td>
+    <td style="border:1px solid green;padding: 10px;">English</td>
+    <td style="border:1px solid green;padding: 10px;">Social</td>
   </tr>
   <tr>
     <td style="border:1px solid green; padding: 10px;">Wednesday</td>
@@ -170,10 +170,10 @@ if (isset($_SESSION['username']) && isset($_SESSION['user_type'])) {
   </tr>
   <tr>
     <td style="border:1px solid green; padding: 10px;">Thursday</td>
-    <td style="border:1px solid green;padding: 10px;"></td>
-    <td style="border:1px solid green;padding: 10px;">  </td>
-    <td style="border:1px solid green;padding: 10px;"> </td>
-      <td style="border:1px solid green;padding: 10px;"> </td>
+    <td style="border:1px solid green;padding: 10px;">English</td>
+    <td style="border:1px solid green;padding: 10px;">Nepali  </td>
+    <td style="border:1px solid green;padding: 10px;">Newari </td>
+      <td style="border:1px solid green;padding: 10px;">Maithali </td>
   </tr>
 </table>
 </div>
@@ -205,30 +205,30 @@ if (isset($_SESSION['username']) && isset($_SESSION['user_type'])) {
   <tr>
     <td style="border:1px solid green; padding: 10px;">Monday</td>
     <td style="border:1px solid green;padding: 10px;">Math</td>
-    <td style="border:1px solid green;padding: 10px;"> </td>
-    <td style="border:1px solid green;padding: 10px;">  </td>
-    <td style="border:1px solid green;padding: 10px;">  </td>
+    <td style="border:1px solid green;padding: 10px;">Leave </td>
+    <td style="border:1px solid green;padding: 10px;">Extra Class  </td>
+    <td style="border:1px solid green;padding: 10px;">Drawing  </td>
   </tr>
   <tr>
     <td style="border:1px solid green; padding: 10px;">Tuesday</td>
     <td style="border:1px solid green;padding: 10px;">Math</td>
-    <td style="border:1px solid green;padding: 10px;"></td>
-    <td style="border:1px solid green;padding: 10px;"></td>
-    <td style="border:1px solid green;padding: 10px;">  </td>
+    <td style="border:1px solid green;padding: 10px;">Nepali</td>
+    <td style="border:1px solid green;padding: 10px;">Graphics</td>
+    <td style="border:1px solid green;padding: 10px;">Newari  </td>
   </tr>
   <tr>
     <td style="border:1px solid green; padding: 10px;">Wednesday</td>
-    <td style="border:1px solid green;padding: 10px;"></td>
-    <td style="border:1px solid green;padding: 10px;"></td>
-    <td style="border:1px solid green;padding: 10px;"> </td>
-    <td style="border:1px solid green;padding: 10px;"></td>
+    <td style="border:1px solid green;padding: 10px;">Nepali</td>
+    <td style="border:1px solid green;padding: 10px;">English</td>
+    <td style="border:1px solid green;padding: 10px;">Sanskrit </td>
+    <td style="border:1px solid green;padding: 10px;">Newari</td>
   </tr>
   <tr>
     <td style="border:1px solid green; padding: 10px;">Thursday</td>
-    <td style="border:1px solid green;padding: 10px;"></td>
-    <td style="border:1px solid green;padding: 10px;"></td>
-    <td style="border:1px solid green;padding: 10px;"> </td>
-      <td style="border:1px solid green;padding: 10px;"> </td>
+    <td style="border:1px solid green;padding: 10px;">History</td>
+    <td style="border:1px solid green;padding: 10px;">Agriculture</td>
+    <td style="border:1px solid green;padding: 10px;">Biology </td>
+      <td style="border:1px solid green;padding: 10px;">Psycology </td>
   </tr>
 </table>
 </div>

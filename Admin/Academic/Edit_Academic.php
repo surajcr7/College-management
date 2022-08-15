@@ -107,22 +107,22 @@ if (isset($_SESSION['username']) && isset($_SESSION['user_type'])) {
   <tr>
     <td style="border:1px solid green; padding: 10px;">Monday</td>
     <td style="border:1px solid green;padding: 10px;">Math</td>
-    <td style="border:1px solid green;padding: 10px;">tusher@121 </td>
-    <td style="border:1px solid green;padding: 10px;">15000  </td>
-    <td style="border:1px solid green;padding: 10px;">1/1/2020  </td>
+    <td style="border:1px solid green;padding: 10px;"> </td>
+    <td style="border:1px solid green;padding: 10px;"> </td>
+    <td style="border:1px solid green;padding: 10px;"> </td>
   </tr>
   <tr>
     <td style="border:1px solid green; padding: 10px;">Tuesday</td>
     <td style="border:1px solid green;padding: 10px;">Math</td>
     <td style="border:1px solid green;padding: 10px;"></td>
     <td style="border:1px solid green;padding: 10px;">15000  </td>
-    <td style="border:1px solid green;padding: 10px;">1/1/2020  </td>
+    <td style="border:1px solid green;padding: 10px;">  </td>
   </tr>
   <tr>
     <td style="border:1px solid green; padding: 10px;">Wednesday</td>
-    <td style="border:1px solid green;padding: 10px;">Bangla</td>
     <td style="border:1px solid green;padding: 10px;"></td>
-    <td style="border:1px solid green;padding: 10px;">15000  </td>
+    <td style="border:1px solid green;padding: 10px;"></td>
+    <td style="border:1px solid green;padding: 10px;">  </td>
     <td style="border:1px solid green;padding: 10px;"></td>
   </tr>
   <tr>

@@ -32,6 +32,7 @@ if (isset($_SESSION['username']) && isset($_SESSION['user_type'])) {
         <i class=""></i>
         <span>Logout</span>
       </a>
+      
     </div>
     <div class="cms">
       <p style="margin-left:35%">College Management System</p>
@@ -50,44 +51,44 @@ if (isset($_SESSION['username']) && isset($_SESSION['user_type'])) {
               <td align=center style="border:1px solid green;padding: 10px;"><h3>Notices</h3></td>
             </tr>
             <tr>
-              <td style="border:1px solid green;padding: 10px;">Bangla</td>
-              <td style="border:1px solid green;padding: 10px;">aksjdfhakljsdfhakjsdfghjkashgfdjksdhfgkjs</td>
+              <td style="border:1px solid green;padding: 10px;">Digital Logic</td>
+              <td style="border:1px solid green;padding: 10px;">Internet Not working so no class</td>
 
 
             </tr>
             <tr>
                 <td style="border:1px solid green;padding: 10px;">English</td>
-                <td style="border:1px solid green;padding: 10px;">aksjdfhakljsdfhakjsdfghjkashgfdjksdhfgkjs</td>
+                <td style="border:1px solid green;padding: 10px;">Today is raining so Digital HICOLE will be closed</td>
 
 
             </tr>
             <tr>
                   <td style="border:1px solid green;padding: 10px;">Physics</td>
-                  <td style="border:1px solid green;padding: 10px;">aksjdfhakljsdfhakjsdfghjkashgfdjksdhfgkjs</td>
+                  <td style="border:1px solid green;padding: 10px;">Be prepared for unit test exam on 2nd march</td>
 
 
             </tr>
             <tr>
                       <td style="border:1px solid green;padding: 10px;">Chemistry</td>
-                      <td style="border:1px solid green;padding: 10px;">aksjdfhakljsdfhakjsdfghjkashgfdjksdhfgkjs</td>
+                      <td style="border:1px solid green;padding: 10px;">I have uploaded notes on drive check it out</td>
 
 
             </tr>
             <tr>
                       <td style="border:1px solid green;padding: 10px;">Math</td>
-                      <td style="border:1px solid green;padding: 10px;">aksjdfhakljsdfhakjsdfghjkashgfdjksdhfgkjs</td>
+                      <td style="border:1px solid green;padding: 10px;">Submit your assignment ASAP!</td>
 
 
             </tr>
             <tr>
-                      <td style="border:1px solid green;padding: 10px;">ICT</td>
-                      <td style="border:1px solid green;padding: 10px;">aksjdfhakljsdfhakjsdfghjkashgfdjksdhfgkjs</td>
+                      <td style="border:1px solid green;padding: 10px;">History</td>
+                      <td style="border:1px solid green;padding: 10px;">Read chapter num 2</td>
 
 
             </tr>
             <tr>
                       <td style="border:1px solid green;padding: 10px;">Biology</td>
-                      <td style="border:1px solid green;padding: 10px;">aksjdfhakljsdfhakjsdfghjkashgfdjksdhfgkjs</td>
+                      <td style="border:1px solid green;padding: 10px;">Submit your practical report by sunday</td>
 
 
             </tr>

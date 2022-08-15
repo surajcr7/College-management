@@ -49,32 +49,32 @@ if (isset($_SESSION['username']) && isset($_SESSION['user_type'])) {
         <td colspan="2" align=center style="color:#519FEE;border:1px solid green;padding: 10px;"><h3>Thursday</h3></td>
 
       <tr>
-        <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Bengali<br>11.00-12.30</h3></td>
-          <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Bengali<br>11.00-12.30</h3></td>
-          <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Bengali<br>11.00-12.30</h3></td>
-          <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Bengali<br>11.00-12.30</h3></td>
-          <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Bengali<br>11.00-12.30</h3></td>
+        <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Nepali<br>11.00-12.30</h3></td>
+          <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>English<br>11.00-12.30</h3></td>
+          <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Newari<br>11.00-12.30</h3></td>
+          <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Graphics<br>11.00-12.30</h3></td>
+          <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Social<br>11.00-12.30</h3></td>
       </tr>
       <tr>
-          <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Bengali<br>11.00-12.30</h3></td>
-            <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Bengali<br>11.00-12.30</h3></td>
-            <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Bengali<br>11.00-12.30</h3></td>
-            <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Bengali<br>11.00-12.30</h3></td>
-            <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Bengali<br>11.00-12.30</h3></td>
+          <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Nepali<br>11.00-12.30</h3></td>
+            <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Physics<br>11.00-12.30</h3></td>
+            <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Graphics<br>11.00-12.30</h3></td>
+            <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>English<br>11.00-12.30</h3></td>
+            <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Social<br>11.00-12.30</h3></td>
       </tr>
       <tr>
-            <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Bengali<br>11.00-12.30</h3></td>
-              <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Bengali<br>11.00-12.30</h3></td>
-              <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Bengali<br>11.00-12.30</h3></td>
-              <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Bengali<br>11.00-12.30</h3></td>
-              <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Bengali<br>11.00-12.30</h3></td>
+            <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Newari<br>11.00-12.30</h3></td>
+              <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Sanskrit<br>11.00-12.30</h3></td>
+              <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>History<br>11.00-12.30</h3></td>
+              <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Physics<br>11.00-12.30</h3></td>
+              <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Social<br>11.00-12.30</h3></td>
             </tr>
             <tr>
-              <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Bengali<br>11.00-12.30</h3></td>
-                <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Bengali<br>11.00-12.30</h3></td>
-                <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Bengali<br>11.00-12.30</h3></td>
-                <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Bengali<br>11.00-12.30</h3></td>
-                <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Bengali<br>11.00-12.30</h3></td>
+              <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Nepali<br>11.00-12.30</h3></td>
+                <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Newari<br>11.00-12.30</h3></td>
+                <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Social<br>11.00-12.30</h3></td>
+                <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>English<br>11.00-12.30</h3></td>
+                <td colspan="2" align=center style="border:1px solid green;padding: 10px;"><h3>Graphics<br>11.00-12.30</h3></td>
               </tr>
 
       </table>

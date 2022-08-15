@@ -39,7 +39,7 @@ if (isset($_SESSION['username']) && isset($_SESSION['user_type'])) {
     <table style="margin-left:45%; margin-top:20px;">
             <tr>
 
-              <td align=right style="padding:10px;">
+              <td align =right style="padding:10px;">
                 <select name="month"  style="width:175px;" required>
                           <option value="" disabled  selected>     Select Term     </option>
                           <option value="sec">Half Yearly</option>
@@ -69,25 +69,25 @@ if (isset($_SESSION['username']) && isset($_SESSION['user_type'])) {
               <td style="border:1px solid green;padding: 10px;"><h3>Comments</h3></td>
             </tr>
             <tr>
-              <td style="border:1px solid green;padding: 10px;">Bangla</td>
+              <td style="border:1px solid green;padding: 10px;">Nepali</td>
               <td style="border:1px solid green;padding: 10px;">65</td>
               <td style="border:1px solid green;padding: 10px;"></td>
 
             </tr>
             <tr>
-                <td style="border:1px solid green;padding: 10px;">Enlish</td>
+                <td style="border:1px solid green;padding: 10px;">English</td>
                 <td style="border:1px solid green;padding: 10px;">65</td>
                 <td style="border:1px solid green;padding: 10px;"></td>
 
             </tr>
             <tr>
-                  <td style="border:1px solid green;padding: 10px;">Physics</td>
+                  <td style="border:1px solid green;padding: 10px;">Newari</td>
                   <td style="border:1px solid green;padding: 10px;">65</td>
                   <td style="border:1px solid green;padding: 10px;"></td>
 
             </tr>
                 <tr>
-                      <td style="border:1px solid green;padding: 10px;">Chemistry</td>
+                      <td style="border:1px solid green;padding: 10px;">Graphics</td>
                       <td style="border:1px solid green;padding: 10px;">65</td>
                       <td style="border:1px solid green;padding: 10px;"></td>
 
