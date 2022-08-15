@@ -59,11 +59,11 @@ if (isset($_SESSION['username']) && isset($_SESSION['user_type'])) {
     </div>
 
     <div class="cms">
-      <p style="margin-left:25%">College Management System</p>
+      <p style="margin-inline-start:25%">College Management System</p>
     </div>
 
 
-<div class="navbar" style="margin-left:auto; margin-top:0%;">
+<div class="navbar" style="margin-inline-start:auto; margin-block-start:0%;">
  <div class="topnav">
    <a href="Active_Academic.php" class="active" >ACTIVE   SCHEDULES</a>
    <a href="Edit_Academic.php" >EDIT  SCHEDULES</a>
@@ -71,7 +71,7 @@ if (isset($_SESSION['username']) && isset($_SESSION['user_type'])) {
 </div>
 
 <div class="main">
-<table  style="border:3px solid black;border-collapse:collapse; margin-left:40%; margin-top:20px">
+<table  style="border:3px solid black;border-collapse:collapse; margin-inline-start:40%; margin-block-start:20px">
   <tr>
     <td colspan="5" align=center>
       <h1>First Year</h1>
@@ -96,36 +96,36 @@ if (isset($_SESSION['username']) && isset($_SESSION['user_type'])) {
   <tr>
     <td style="border:1px solid green; padding: 10px;">Monday</td>
     <td style="border:1px solid green;padding: 10px;">Math</td>
-    <td style="border:1px solid green;padding: 10px;">tusher@121 </td>
-    <td style="border:1px solid green;padding: 10px;">15000  </td>
-    <td style="border:1px solid green;padding: 10px;">1/1/2020  </td>
+    <td style="border:1px solid green;padding: 10px;">DBMS</td>
+    <td style="border:1px solid green;padding: 10px;">Nepali</td>
+    <td style="border:1px solid green;padding: 10px;">Sanskrit </td>
   </tr>
   <tr>
     <td style="border:1px solid green; padding: 10px;">Tuesday</td>
-    <td style="border:1px solid green;padding: 10px;">Math</td>
-    <td style="border:1px solid green;padding: 10px;"></td>
-    <td style="border:1px solid green;padding: 10px;">15000  </td>
-    <td style="border:1px solid green;padding: 10px;">1/1/2020  </td>
+    <td style="border:1px solid green;padding: 10px;">Maithali</td>
+    <td style="border:1px solid green;padding: 10px;">Bojhpuri</td>
+    <td style="border:1px solid green;padding: 10px;">Nepali  </td>
+    <td style="border:1px solid green;padding: 10px;">Sanskrit </td>
   </tr>
   <tr>
     <td style="border:1px solid green; padding: 10px;">Wednesday</td>
-    <td style="border:1px solid green;padding: 10px;">Bangla</td>
-    <td style="border:1px solid green;padding: 10px;"></td>
-    <td style="border:1px solid green;padding: 10px;">15000  </td>
-    <td style="border:1px solid green;padding: 10px;"></td>
+    <td style="border:1px solid green;padding: 10px;">Computer Graphics</td>
+    <td style="border:1px solid green;padding: 10px;">Statistics</td>
+    <td style="border:1px solid green;padding: 10px;">Animation  </td>
+    <td style="border:1px solid green;padding: 10px;">Web design</td>
   </tr>
   <tr>
     <td style="border:1px solid green; padding: 10px;">Thursday</td>
-    <td style="border:1px solid green;padding: 10px;"></td>
-    <td style="border:1px solid green;padding: 10px;">15000  </td>
-    <td style="border:1px solid green;padding: 10px;"> </td>
-      <td style="border:1px solid green;padding: 10px;"> </td>
+    <td style="border:1px solid green;padding: 10px;">Math</td>
+    <td style="border:1px solid green;padding: 10px;">English</td>
+    <td style="border:1px solid green;padding: 10px;">Computer</td>
+      <td style="border:1px solid green;padding: 10px;">Digital Logic </td>
   </tr>
 </table>
 </div>
 
 <div class="main">
-<table  style="border:3px solid black;border-collapse:collapse; margin-left:40%; margin-top:20px">
+<table  style="border:3px solid black;border-collapse:collapse; margin-inline-start:40%; margin-block-start:20px">
   <tr>
     <td colspan="5" align=center>
       <h1>First Year</h1>
@@ -150,9 +150,9 @@ if (isset($_SESSION['username']) && isset($_SESSION['user_type'])) {
   <tr>
     <td style="border:1px solid green; padding: 10px;">Monday</td>
     <td style="border:1px solid green;padding: 10px;">Math</td>
-    <td style="border:1px solid green;padding: 10px;">tusher@121 </td>
-    <td style="border:1px solid green;padding: 10px;">15000  </td>
-    <td style="border:1px solid green;padding: 10px;">1/1/2020  </td>
+    <td style="border:1px solid green;padding: 10px;">Nepali </td>
+    <td style="border:1px solid green;padding: 10px;">Physics </td>
+    <td style="border:1px solid green;padding: 10px;">Chemistry</td>
   </tr>
   <tr>
     <td style="border:1px solid green; padding: 10px;">Tuesday</td>
@@ -163,15 +163,15 @@ if (isset($_SESSION['username']) && isset($_SESSION['user_type'])) {
   </tr>
   <tr>
     <td style="border:1px solid green; padding: 10px;">Wednesday</td>
-    <td style="border:1px solid green;padding: 10px;">Bangla</td>
-    <td style="border:1px solid green;padding: 10px;"></td>
-    <td style="border:1px solid green;padding: 10px;">15000  </td>
-    <td style="border:1px solid green;padding: 10px;"></td>
+    <td style="border:1px solid green;padding: 10px;">Social</td>
+    <td style="border:1px solid green;padding: 10px;">Grammar</td>
+    <td style="border:1px solid green;padding: 10px;">Account </td>
+    <td style="border:1px solid green;padding: 10px;">Nepali</td>
   </tr>
   <tr>
     <td style="border:1px solid green; padding: 10px;">Thursday</td>
     <td style="border:1px solid green;padding: 10px;"></td>
-    <td style="border:1px solid green;padding: 10px;">15000  </td>
+    <td style="border:1px solid green;padding: 10px;">  </td>
     <td style="border:1px solid green;padding: 10px;"> </td>
       <td style="border:1px solid green;padding: 10px;"> </td>
   </tr>
@@ -180,7 +180,7 @@ if (isset($_SESSION['username']) && isset($_SESSION['user_type'])) {
 <!---  SECOND YEAR SCHEDULE STARTS HERE ---->
 
 <div class="main">
-<table  style="border:3px solid black;border-collapse:collapse; margin-left:40%; margin-top:20px">
+<table  style="border:3px solid black;border-collapse:collapse; margin-inline-start:40%; margin-block-start:20px">
   <tr>
     <td colspan="5" align=center>
       <h1>Second Year</h1>
@@ -205,28 +205,28 @@ if (isset($_SESSION['username']) && isset($_SESSION['user_type'])) {
   <tr>
     <td style="border:1px solid green; padding: 10px;">Monday</td>
     <td style="border:1px solid green;padding: 10px;">Math</td>
-    <td style="border:1px solid green;padding: 10px;">tusher@121 </td>
-    <td style="border:1px solid green;padding: 10px;">15000  </td>
-    <td style="border:1px solid green;padding: 10px;">1/1/2020  </td>
+    <td style="border:1px solid green;padding: 10px;"> </td>
+    <td style="border:1px solid green;padding: 10px;">  </td>
+    <td style="border:1px solid green;padding: 10px;">  </td>
   </tr>
   <tr>
     <td style="border:1px solid green; padding: 10px;">Tuesday</td>
     <td style="border:1px solid green;padding: 10px;">Math</td>
     <td style="border:1px solid green;padding: 10px;"></td>
-    <td style="border:1px solid green;padding: 10px;">15000  </td>
-    <td style="border:1px solid green;padding: 10px;">1/1/2020  </td>
+    <td style="border:1px solid green;padding: 10px;"></td>
+    <td style="border:1px solid green;padding: 10px;">  </td>
   </tr>
   <tr>
     <td style="border:1px solid green; padding: 10px;">Wednesday</td>
-    <td style="border:1px solid green;padding: 10px;">Bangla</td>
     <td style="border:1px solid green;padding: 10px;"></td>
-    <td style="border:1px solid green;padding: 10px;">15000  </td>
+    <td style="border:1px solid green;padding: 10px;"></td>
+    <td style="border:1px solid green;padding: 10px;"> </td>
     <td style="border:1px solid green;padding: 10px;"></td>
   </tr>
   <tr>
     <td style="border:1px solid green; padding: 10px;">Thursday</td>
     <td style="border:1px solid green;padding: 10px;"></td>
-    <td style="border:1px solid green;padding: 10px;">15000  </td>
+    <td style="border:1px solid green;padding: 10px;"></td>
     <td style="border:1px solid green;padding: 10px;"> </td>
       <td style="border:1px solid green;padding: 10px;"> </td>
   </tr>
@@ -234,7 +234,7 @@ if (isset($_SESSION['username']) && isset($_SESSION['user_type'])) {
 </div>
 
 <div class="main">
-<table  style="border:3px solid black;border-collapse:collapse; margin-left:40%; margin-top:20px">
+<table  style="border:3px solid black;border-collapse:collapse; margin-inline-start:40%; margin-block-start:20px">
   <tr>
     <td colspan="5" align=center>
       <h1>Second Year</h1>
@@ -259,28 +259,28 @@ if (isset($_SESSION['username']) && isset($_SESSION['user_type'])) {
   <tr>
     <td style="border:1px solid green; padding: 10px;">Monday</td>
     <td style="border:1px solid green;padding: 10px;">Math</td>
-    <td style="border:1px solid green;padding: 10px;">tusher@121 </td>
-    <td style="border:1px solid green;padding: 10px;">15000  </td>
-    <td style="border:1px solid green;padding: 10px;">1/1/2020  </td>
+    <td style="border:1px solid green;padding: 10px;"> </td>
+    <td style="border:1px solid green;padding: 10px;">  </td>
+    <td style="border:1px solid green;padding: 10px;">  </td>
   </tr>
   <tr>
     <td style="border:1px solid green; padding: 10px;">Tuesday</td>
     <td style="border:1px solid green;padding: 10px;">Math</td>
     <td style="border:1px solid green;padding: 10px;"></td>
-    <td style="border:1px solid green;padding: 10px;">15000  </td>
-    <td style="border:1px solid green;padding: 10px;">1/1/2020  </td>
+    <td style="border:1px solid green;padding: 10px;">  </td>
+    <td style="border:1px solid green;padding: 10px;">  </td>
   </tr>
   <tr>
     <td style="border:1px solid green; padding: 10px;">Wednesday</td>
-    <td style="border:1px solid green;padding: 10px;">Bangla</td>
     <td style="border:1px solid green;padding: 10px;"></td>
-    <td style="border:1px solid green;padding: 10px;">15000  </td>
+    <td style="border:1px solid green;padding: 10px;"></td>
+    <td style="border:1px solid green;padding: 10px;">  </td>
     <td style="border:1px solid green;padding: 10px;"></td>
   </tr>
   <tr>
     <td style="border:1px solid green; padding: 10px;">Thursday</td>
     <td style="border:1px solid green;padding: 10px;"></td>
-    <td style="border:1px solid green;padding: 10px;">15000  </td>
+    <td style="border:1px solid green;padding: 10px;">  </td>
     <td style="border:1px solid green;padding: 10px;"> </td>
       <td style="border:1px solid green;padding: 10px;"> </td>
   </tr>
