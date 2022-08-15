@@ -21,7 +21,7 @@ if (isset($_SESSION['username']) && isset($_SESSION['user_type'])) {
       <header>Welcome</header>
       <a href="../index.php" >
         <i class=""></i>
-        <span>Dashboard</span>
+        <span>Dashboards</span>
       </a>
       <a href="../Student/Add_Student.php" >
         <i class=""></i>
