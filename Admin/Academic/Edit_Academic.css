@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:600|Open+Sans:600&display=swap');
+body{
+  background-color: #f3f3f3;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+.sidebar{
+  position: fixed;
+  width: 240px;
+  height: 100%;
+  background: #056676;
+  transition: all .5s ease;
+}
+.sidebar header{
+  font-size: 28px;
+  color: white;
+  line-height: 70px;
+  text-align: center;
+  background: #056676;
+  user-select: none;
+  font-family: 'Montserrat', sans-serif;
+}
+.sidebar a{
+  display: block;
+  height: 65px;
+  width: 100%;
+  color: white;
+  line-height: 65px;
+  padding-left: 30px;
+  box-sizing: border-box;
+
+  border-top: 1px solid rgba(255,255,255,.1);
+  border-left: 5px solid transparent;
+  font-family: 'Open Sans', sans-serif;
+  transition: all .5s ease;
+}
+a.active,a:hover{
+  border-left: 5px solid #1D1F21;
+  background-color: #68b0ab;
+  color: #2d4059;
+}
+.sidebar a i{
+  font-size: 23px;
+  margin-right: 16px;
+}
+.sidebar a span{
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+@media(max-width : 860px){
+  .sidebar{
+    height: auto;
+    width: 70px;
+    left: 0;
+    margin: 100px 0;
+  }
+
+  span{
+    position: absolute;
+    margin-left: 23px;
+    opacity: 0;
+    visibility: hidden;
+  }
+  .sidebar a{
+    height: 60px;
+  }
+  .sidebar a i{
+    margin-left: -10px;
+  }
+  a:hover {
+    width: 200px;
+    background: inherit;
+  }
+  .sidebar a:hover span{
+    opacity: 1;
+    visibility: visible;
+  }
+}
+.cms{
+  background-color: #68b0ab;
+  margin-left: 2%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 60px;
+  color: #2d4059;
+  align-content: center;
+}
+.title{
+  font-family: 'Montserrat', sans-serif;
+}
+.submit{
+  background-color: #5eaaa8;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+table{
+  font-family: 'Montserrat', sans-serif;
+}
+input[type=text],input[type=Password],input[type=date], select {
+  width: 100%;
+  padding: 4px 10px;
+
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.topnav {
+    float: right;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color:#A3D2CA;
+    font-family: 'Montserrat', sans-serif;
+   box-shadow: 0px 8px 10px 0px rgba(0,0,0,0.6);
+
+}
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: #56556e;
+    text-align: center;
+    padding:  16px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.navbar a:hover {
+    background-color: #68b0ab;
+    color: #2d4059;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
