@@ -40,7 +40,7 @@ if (isset($_SESSION['username']) && isset($_SESSION['user_type'])) {
     <div class="main" style="margin-top:40px; margin-left:40%;">
       <table style="border:3px solid black;border-collapse:collapse;">
       <tr>
-      <td  colspan="5" align=center> <h1> Current Course list </h1></td>
+      <td  colspan="5" align =center> <h1> Current Course list </h1></td>
       </tr>
       <tr>
       <td style="border:1px solid green;padding: 10px;"><h3>Course Name</h3></td>
