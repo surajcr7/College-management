@@ -120,8 +120,8 @@
 
 
 <style>
-body{
-   font-family:'arial';
+/* body{
+  
    }
 
 .lavkush img {
@@ -139,6 +139,7 @@ hr.new2 {
   text-align:left;
   align-items:left;
 }
+ second id card  */
  /* second id card  */
  p{
      font-size: 13px;

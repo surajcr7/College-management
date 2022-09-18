@@ -51,13 +51,18 @@ if (isset($_SESSION['username']) && isset($_SESSION['user_type'])) {
         <i class=""></i>
         <span>Grade</span>
       </a>
-      <a href="../include/logout.php" >
+      
+      <a href="../Admin/idcard/index.php" >
         <i class=""></i>
-        <span>Logout</span>
+        <span>ID Generate</span>
+      </a>
+      <a href="../Admin/virtualTour/index.php" >
+        <i class=""></i>
+        <span>Virtual Tour</span>
       </a>
       <a href="../include/logout.php" >
         <i class=""></i>
-        <span>Logouts</span>
+        <span>Logout</span>
       </a>
     </div>
 

@@ -55,6 +55,7 @@ if (isset($_SESSION['username']) && isset($_SESSION['user_type'])) {
         <i class=""></i>
         <span>Logout</span>
       </a>
+      
     </div>
 
     <div class="cms">
