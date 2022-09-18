@@ -27,6 +27,10 @@ if (isset($_SESSION['username']) && isset($_SESSION['user_type'])) {
         <i class=""></i>
         <span>NOTICE</span>
       </a>
+      <a href="jitsii.php.html">
+        <i class=""></i>
+        <span>Online class</span>
+      </a>
       <a href="../include/logout.php">
         <i class=""></i>
         <span>Logout</span>
